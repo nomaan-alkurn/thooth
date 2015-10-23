@@ -35,4 +35,4 @@ class DataSavedWidget extends HWidget {
         $this->render('dataSaved', array());
     }
 
-}
+} 
